@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: argo-demo
-        image: <your-dockerhub>/argo-demo:v1
+        image: groot321/argo-demo:v1
         ports:
         - containerPort: 80
